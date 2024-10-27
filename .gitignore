@@ -1,2 +1,11 @@
 # Ignore .env files
 *.env 
+
+#.NET ignore files
+#Folders
+bin/
+obj/
+
+#Visual Studio Code ignore files
+.vscode/
+.vs/
